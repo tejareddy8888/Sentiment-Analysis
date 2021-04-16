@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+nltk = "*"
+pyspellchecker = "*"
+textblob = "*"
+scipy = "*"
+
+[packages]
+tensorflow = "*"
+numpy = "*"
+pyenchant = "*"
+wordsegment = "*"
+urllib3 = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+matplotlib = "*"
+bert-for-tf2 = "*"
+scikit-learn = "*"
+
+[requires]
+python_version = "3.8"

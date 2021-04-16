@@ -1,0 +1,4 @@
+*/__pycache__
+#/data/train_pos_full*.txt
+#/data/train_neg_full*.txt
+data/saved_models

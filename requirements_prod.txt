@@ -1,0 +1,4 @@
+pyenchant
+wordsegment
+urllib3
+beautifulsoup4
